@@ -1,0 +1,4 @@
+node_modules
+aws-key-pair.pem
+.env 
+.prod.env 
